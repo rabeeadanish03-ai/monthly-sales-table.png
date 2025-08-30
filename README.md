@@ -1,3 +1,10 @@
-![Sales Table](Screenshot%202023-08-18%20133445.png)
+## 📊 Monthly Sales Table
+
+This project showcases a structured HTML table for tracking monthly sales performance.
+
+### 🖼️ Table Preview
+
+![Monthly Sales Table](monthly-sales-table.png)
+
 
 
