@@ -1,0 +1,1 @@
+# monthly-sales-table.png
